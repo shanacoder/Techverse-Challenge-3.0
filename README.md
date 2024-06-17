@@ -1,4 +1,4 @@
-# Techverse Challenge 3.0 - Mobile App Development
+# Techverse Challenge 3.0 - Native App Development
 
 Welcome to the Techverse Challenge dedicated to mastering Mobile App Development! This challenge is designed to improve your skills in iOS, Android, and Cross-Platform Native Development Stacks. Dive into building, understanding, and transforming mobile applications using these powerful technologies.
 
